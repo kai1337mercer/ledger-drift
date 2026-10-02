@@ -1,8 +1,0 @@
-[reconciliation]
-model = "echo-recon"
-project = "REBATE"
-build = "e40c481"
-signature = "KM"
-owner_alias = "nullrebate"
-adjustment = "0.003"
-environment = "internal"
